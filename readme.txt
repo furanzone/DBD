@@ -1,9 +1,9 @@
 ## My First Django Project ##
 
-Task:
-- Django database connection using Postgre SQL (connect to database and print the status)
+Task (ongoing):
+- Django database connection using Postgre SQL (connect to database server (localhost) and print the status "success/not" in HTML)
 - REST API (retrieve data from database and show using rest api format (json))
-- ??
+- Show the retrieved data from database on HTML page
 - ??
 
 
